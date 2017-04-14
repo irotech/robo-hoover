@@ -31,7 +31,7 @@ public class RoboHooverControllerTest {
      * @throws Exception
      */
     @Test
-    public void roboHooverPatchesWithSuccess() throws Exception {
+    public void roboHooverPatchesWithSuccess() {
 
     }
 
@@ -45,7 +45,7 @@ public class RoboHooverControllerTest {
      * @throws Exception
      */
     @Test
-    public void roboHooverPatchesWithFailure() throws Exception {
+    public void roboHooverPatchesWithFailure() {
 
     }
 
